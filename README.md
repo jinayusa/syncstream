@@ -74,7 +74,3 @@ This project is licensed under the MIT License.
 
 Acknowledgments
 This project was developed as part of a multi-part series to build a collaborative movie streaming experience.
-
----
-
-Feel free to download the file using the link above or create the file manually using the provided content.
